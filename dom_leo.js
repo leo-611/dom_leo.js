@@ -1,4 +1,4 @@
-const rodri_circulo = document.getElementById(´circulo`)
+const rodri_circulo = document.getElementById(`circulo`)
 let tamanho_rodri = 10
 
 rodri_circulo.addEventListener(´dblclick`,()=>{
