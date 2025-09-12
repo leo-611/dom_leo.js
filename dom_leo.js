@@ -13,3 +13,5 @@ function mudarCor(novacor) {
     elemento.style.backgroundColor=novacor;
     elemento.style.display='inline';
 }
+
+document.querySelector('#para1')
